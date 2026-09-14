@@ -1,7 +1,7 @@
 // TODO: налаштуйте власні дані
-const studentName = "Прізвище Ім'я";
-const group = "група";
-const emoji = "👩‍💻"; // замініть на свій унікальний емодзі
+const studentName = "Іващенко Нікіта";
+const group = "ІН-41/1";
+const emoji = "🎭"; // замініть на свій унікальний емодзі
 
 // Проста генерація унікального ID сторінки (час + випадкова частина)
 function generatePageId() {
