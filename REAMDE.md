@@ -1,1 +1,0 @@
-This is the first app in our web adventure. Hope you'll like it! 
